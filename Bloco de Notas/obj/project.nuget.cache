@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FPkFCtwBBOvkGmWelbFvKIU0OMM8altK/g9Y6TcdPIDhHFG0TUoazOBw7s6VVRaFQ42obxLSUOh0Eka5jZsC4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rmrod\\OneDrive\\Desktop\\Programação\\Bloco de Notas\\Bloco de Notas\\Bloco de Notas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rmrod\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\rmrod\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\rmrod\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\rmrod\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

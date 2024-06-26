@@ -1,0 +1,50 @@
+C:\Users\rmrod\Desktop\C# Faculdade\Bloco de Notas\bin\Debug\net7.0-windows\Bloco de Notas.exe
+C:\Users\rmrod\Desktop\C# Faculdade\Bloco de Notas\bin\Debug\net7.0-windows\Bloco de Notas.deps.json
+C:\Users\rmrod\Desktop\C# Faculdade\Bloco de Notas\bin\Debug\net7.0-windows\Bloco de Notas.runtimeconfig.json
+C:\Users\rmrod\Desktop\C# Faculdade\Bloco de Notas\bin\Debug\net7.0-windows\Bloco de Notas.dll
+C:\Users\rmrod\Desktop\C# Faculdade\Bloco de Notas\bin\Debug\net7.0-windows\Bloco de Notas.pdb
+C:\Users\rmrod\Desktop\C# Faculdade\Bloco de Notas\obj\Debug\net7.0-windows\Bloco_de_Notas.Form1.resources
+C:\Users\rmrod\Desktop\C# Faculdade\Bloco de Notas\obj\Debug\net7.0-windows\Bloco de Notas.csproj.GenerateResource.cache
+C:\Users\rmrod\Desktop\C# Faculdade\Bloco de Notas\obj\Debug\net7.0-windows\Bloco de Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmrod\Desktop\C# Faculdade\Bloco de Notas\obj\Debug\net7.0-windows\Bloco de Notas.AssemblyInfoInputs.cache
+C:\Users\rmrod\Desktop\C# Faculdade\Bloco de Notas\obj\Debug\net7.0-windows\Bloco de Notas.AssemblyInfo.cs
+C:\Users\rmrod\Desktop\C# Faculdade\Bloco de Notas\obj\Debug\net7.0-windows\Bloco de Notas.csproj.CoreCompileInputs.cache
+C:\Users\rmrod\Desktop\C# Faculdade\Bloco de Notas\obj\Debug\net7.0-windows\Bloco de Notas.dll
+C:\Users\rmrod\Desktop\C# Faculdade\Bloco de Notas\obj\Debug\net7.0-windows\refint\Bloco de Notas.dll
+C:\Users\rmrod\Desktop\C# Faculdade\Bloco de Notas\obj\Debug\net7.0-windows\Bloco de Notas.pdb
+C:\Users\rmrod\Desktop\C# Faculdade\Bloco de Notas\obj\Debug\net7.0-windows\Bloco de Notas.genruntimeconfig.cache
+C:\Users\rmrod\Desktop\C# Faculdade\Bloco de Notas\obj\Debug\net7.0-windows\ref\Bloco de Notas.dll
+C:\Users\rmrod\Desktop\Bloco de Notas\bin\Debug\net7.0-windows\Bloco de Notas.exe
+C:\Users\rmrod\Desktop\Bloco de Notas\bin\Debug\net7.0-windows\Bloco de Notas.deps.json
+C:\Users\rmrod\Desktop\Bloco de Notas\bin\Debug\net7.0-windows\Bloco de Notas.runtimeconfig.json
+C:\Users\rmrod\Desktop\Bloco de Notas\bin\Debug\net7.0-windows\Bloco de Notas.dll
+C:\Users\rmrod\Desktop\Bloco de Notas\bin\Debug\net7.0-windows\Bloco de Notas.pdb
+C:\Users\rmrod\Desktop\Bloco de Notas\obj\Debug\net7.0-windows\Bloco_de_Notas.Form1.resources
+C:\Users\rmrod\Desktop\Bloco de Notas\obj\Debug\net7.0-windows\Bloco de Notas.csproj.GenerateResource.cache
+C:\Users\rmrod\Desktop\Bloco de Notas\obj\Debug\net7.0-windows\Bloco de Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmrod\Desktop\Bloco de Notas\obj\Debug\net7.0-windows\Bloco de Notas.AssemblyInfoInputs.cache
+C:\Users\rmrod\Desktop\Bloco de Notas\obj\Debug\net7.0-windows\Bloco de Notas.AssemblyInfo.cs
+C:\Users\rmrod\Desktop\Bloco de Notas\obj\Debug\net7.0-windows\Bloco de Notas.csproj.CoreCompileInputs.cache
+C:\Users\rmrod\Desktop\Bloco de Notas\obj\Debug\net7.0-windows\Bloco de Notas.dll
+C:\Users\rmrod\Desktop\Bloco de Notas\obj\Debug\net7.0-windows\refint\Bloco de Notas.dll
+C:\Users\rmrod\Desktop\Bloco de Notas\obj\Debug\net7.0-windows\Bloco de Notas.pdb
+C:\Users\rmrod\Desktop\Bloco de Notas\obj\Debug\net7.0-windows\Bloco de Notas.genruntimeconfig.cache
+C:\Users\rmrod\Desktop\Bloco de Notas\obj\Debug\net7.0-windows\ref\Bloco de Notas.dll
+C:\Users\rmrod\Desktop\Bloco de Notas\obj\Debug\net7.0-windows\Bloco_de_Notas.Localizar.resources
+C:\Users\rmrod\Desktop\Bloco de Notas\obj\Debug\net7.0-windows\Bloco_de_Notas.Substituir.resources
+C:\Users\rmrod\Desktop\Bloco de Notas\obj\Debug\net7.0-windows\Bloco_de_Notas.Imagem.resources
+C:\Users\rmrod\Desktop\Bloco de Notas\obj\Debug\net7.0-windows\Bloco_de_Notas.Properties.Resources.resources
+C:\Users\rmrod\OneDrive\Desktop\Programação\Bloco de Notas\Bloco de Notas\obj\Debug\net7.0-windows\Bloco_de_Notas.Form1.resources
+C:\Users\rmrod\OneDrive\Desktop\Programação\Bloco de Notas\Bloco de Notas\obj\Debug\net7.0-windows\Bloco_de_Notas.Imagem.resources
+C:\Users\rmrod\OneDrive\Desktop\Programação\Bloco de Notas\Bloco de Notas\obj\Debug\net7.0-windows\Bloco_de_Notas.Localizar.resources
+C:\Users\rmrod\OneDrive\Desktop\Programação\Bloco de Notas\Bloco de Notas\obj\Debug\net7.0-windows\Bloco_de_Notas.Properties.Resources.resources
+C:\Users\rmrod\OneDrive\Desktop\Programação\Bloco de Notas\Bloco de Notas\obj\Debug\net7.0-windows\Bloco_de_Notas.Substituir.resources
+C:\Users\rmrod\OneDrive\Desktop\Programação\Bloco de Notas\Bloco de Notas\obj\Debug\net7.0-windows\Bloco de Notas.csproj.GenerateResource.cache
+C:\Users\rmrod\OneDrive\Desktop\Programação\Bloco de Notas\Bloco de Notas\obj\Debug\net7.0-windows\Bloco de Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmrod\OneDrive\Desktop\Programação\Bloco de Notas\Bloco de Notas\obj\Debug\net7.0-windows\Bloco de Notas.AssemblyInfoInputs.cache
+C:\Users\rmrod\OneDrive\Desktop\Programação\Bloco de Notas\Bloco de Notas\obj\Debug\net7.0-windows\Bloco de Notas.AssemblyInfo.cs
+C:\Users\rmrod\OneDrive\Desktop\Programação\Bloco de Notas\Bloco de Notas\obj\Debug\net7.0-windows\Bloco de Notas.csproj.CoreCompileInputs.cache
+C:\Users\rmrod\OneDrive\Desktop\Programação\Bloco de Notas\Bloco de Notas\obj\Debug\net7.0-windows\Bloco de Notas.sourcelink.json
+C:\Users\rmrod\OneDrive\Desktop\Programação\Bloco de Notas\Bloco de Notas\obj\Debug\net7.0-windows\Bloco de Notas.dll
+C:\Users\rmrod\OneDrive\Desktop\Programação\Bloco de Notas\Bloco de Notas\obj\Debug\net7.0-windows\refint\Bloco de Notas.dll
+C:\Users\rmrod\OneDrive\Desktop\Programação\Bloco de Notas\Bloco de Notas\obj\Debug\net7.0-windows\Bloco de Notas.pdb
