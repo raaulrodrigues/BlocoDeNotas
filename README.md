@@ -1,35 +1,38 @@
-# 📝 Bloco de Notas com LocalStorage
+# 📝 Bloco de Notas em C#
 
-Uma aplicação web simples de bloco de notas que permite ao usuário criar, editar e salvar anotações diretamente no navegador usando LocalStorage.
+Uma aplicação desktop (Windows Forms ou WPF) que replica as funcionalidades básicas de um editor de texto, como o Bloco de Notas do Windows.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
 
 ## 🎯 Sobre o Projeto
 
-O objetivo deste projeto é demonstrar o uso da **Web Storage API (LocalStorage)** para criar persistência de dados no lado do cliente, sem a necessidade de um banco de dados ou back-end.
+O objetivo deste projeto é construir uma aplicação desktop funcional usando C# e a plataforma .NET. O foco é praticar o desenvolvimento de interfaces gráficas (GUI), manipulação de eventos e interação com o sistema de arquivos.
 
 ## ✨ Funcionalidades
 
-* **Criação de Notas:** Um campo de texto (textarea) para escrever anotações.
-* **Salvamento Automático:** (Opcional) A nota é salva conforme o usuário digita.
-* **Persistência de Dados:** As notas permanecem salvas no `LocalStorage` do navegador, mesmo após fechar a aba ou o navegador.
-* **Carregamento de Notas:** Ao reabrir a página, a última nota salva é carregada automaticamente.
+* **Edição de Texto:** Área de texto principal para digitar e editar.
+* **Sistema de Arquivos:**
+    * **Abrir:** Permite ao usuário abrir arquivos de texto (`.txt`) existentes.
+    * **Salvar:** Permite ao usuário salvar o conteúdo atual em um arquivo.
+    * **Salvar Como:** Permite ao usuário salvar um novo arquivo em um local específico.
+* **(Opcional) Funções Básicas:** Implementação de menus como "Formatar > Fonte" ou "Editar > Copiar/Colar".
 
 ## 💻 Tecnologias Utilizadas
 
-* **HTML5:** Estrutura da página (textarea, botões).
-* **CSS3:** Estilização da interface.
-* **JavaScript (ES6+):** Lógica para salvar (`localStorage.setItem`) e carregar (`localStorage.getItem`) as notas.
+* **C#:** Linguagem principal para toda a lógica da aplicação.
+* **.NET Framework (ou .NET Core):** A plataforma de desenvolvimento.
+* **Windows Forms (WinForms) ou WPF:** O framework de UI para a construção da interface gráfica do desktop.
 
-## 🚀 Como Visualizar
+## 🚀 Rodando o Projeto
+
+Para executar este projeto, é necessário ter o ambiente .NET Desktop configurado (via Visual Studio ou .NET SDK).
 
 1.  Clone o repositório.
-2.  Abra o arquivo `index.html` em qualquer navegador web.
-3.  Digite algo e recarregue a página para ver a persistência.
+2.  Abra o arquivo de solução (`.sln`) no Visual Studio.
+3.  Pressione "Start" (F5) para compilar e executar a aplicação.
 
 ---
 Desenvolvido por **Raul Rodrigues**
